@@ -23,3 +23,7 @@ I looked at the type of activities completed on Strava, walking and running maki
 ![image](https://github.com/user-attachments/assets/f2ee2a6e-1c82-4cd6-a708-bc2ef09f1638)
 
 Activity by type as percentage
+
+Bonus Content 
+Activity vs Phase of the Moon 
+![JanMoonData](https://github.com/user-attachments/assets/26604869-c201-402c-9170-987690a02fa4)
