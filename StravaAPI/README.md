@@ -16,6 +16,7 @@ I isolated the longitude and latitude data to build a heatmap of my activites by
 Heatmap of runs by location
 
 ![image](https://github.com/user-attachments/assets/37e7b56e-9897-4c2b-9680-058a358f0af9)
+
 Global runs view — All Strava activities
 I looked at the type of activities completed on Strava, walking and running making up the most of this. I use Huawei Health which utilises the Strava WebHooks to sync my activities so would be interesting to expand on this on the hooks side of things in future.
 
