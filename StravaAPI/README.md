@@ -21,4 +21,5 @@ Global runs view — All Strava activities
 I looked at the type of activities completed on Strava, walking and running making up the most of this. I use Huawei Health which utilises the Strava WebHooks to sync my activities so would be interesting to expand on this on the hooks side of things in future.
 
 ![image](https://github.com/user-attachments/assets/f2ee2a6e-1c82-4cd6-a708-bc2ef09f1638)
+
 Activity by type as percentage
