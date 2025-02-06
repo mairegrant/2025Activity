@@ -12,6 +12,7 @@ The below views are using scatter_map: https://plotly.com/python/mapbox-to-mapli
 I isolated the longitude and latitude data to build a heatmap of my activites by location. I have provided some of the results below.
 
 ![image](https://github.com/user-attachments/assets/eec71fa9-efc5-4d0c-a1e1-a6d7f7ff8830)
+
 Heatmap of runs by location
 
 ![image](https://github.com/user-attachments/assets/37e7b56e-9897-4c2b-9680-058a358f0af9)
